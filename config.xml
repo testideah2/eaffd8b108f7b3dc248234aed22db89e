@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.pikabu.app"
     versionCode = "10"
-    version     = "1.3.0">
+    version     = "1.4.0">
 
 <name>Пикабу</name>
 
@@ -38,8 +38,8 @@
 
 
 <platform name="android">
-    <icon src="res/android/icon/3506e15a2ec84721205bdc5eae37eb1f.png" density="ldpi" />
-    <icon src="res/android/icon/69865ec919dda3106f51ab7ecf986c92.png" density="mdpi" />
+    <icon src="res/android/icon/38effc0b9b51c300d70abfd28af2c070.png" density="ldpi" />
+    <icon src="res/android/icon/db9bc983205072c04961f5c95f62c63f.png" density="mdpi" />
     <icon src="res/android/icon/72d5f5e3dfb8ca99f5b4bc66a14a16d2.png" density="hdpi" />
     <icon src="res/android/icon/12fc8541bf0bbda92d31db648288640a.png" density="xhdpi" />
     <icon src="res/android/icon/2ef0bb1be79a2f70739522f45b33cdd0.png" density="xxhdpi" />
