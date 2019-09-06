@@ -3,9 +3,9 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.pikabssu.app"
     versionCode = "10"
-    version     = "1.10.0">
+    version     = "1.11.0">
 
-<name>Пикабу</name>
+<name>Пикабуk</name>
 
 <description>
     Тестовое приложение
