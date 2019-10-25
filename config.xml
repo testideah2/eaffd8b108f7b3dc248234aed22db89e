@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<widget id="ru.pikabssu.app" version="1.15.0"
-xmlns="http://www.w3.org/ns/widgets" 
-xmlns:android="http://schemas.android.com/apk/res/android"
-xmlns:cdv="http://cordova.apache.org/ns/1.0">
 
-
+<widget 
+        id          = "ru.pikabssu.app"
+        version     = "1.16.0">
+        xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        xmlns:android="http://schemas.android.com/apk/res/android" 
+        xmlns:cdv="http://cordova.apache.org/ns/1.0">
+        versionCode = "10"
 
     <name>ТЕСТ. Пикабуk</name>
 
